@@ -1,6 +1,5 @@
 import kotlin.random.Random
 
-
 class Game {
     private val choice = arrayOf("Камень", "Ножницы", "Бумага", "Ящерица", "Спок")
     private val random = Random
